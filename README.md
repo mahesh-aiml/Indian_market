@@ -13,6 +13,14 @@
 
 ---
 
+# 📊 Dashboard Preview
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3e591c9d-11d9-4d17-99a7-2eb5979116f0" width="950"/>
+</p>
+
+---
+
 # 📌 Project Overview
 
 The **Indian Retail Market Analysis** project focuses on analyzing retail business data using **Microsoft Excel** to uncover valuable business insights related to sales performance, profitability, customer behavior, and product trends.
@@ -55,28 +63,6 @@ The dataset used in this project was sourced from **Kaggle** and contains retail
 | Industry | Retail & E-Commerce |
 | Analysis Tool | Microsoft Excel |
 
-## Key Columns Used
-
-- Customer Name
-- Product Category
-- Revenue
-- Profit
-- Quantity Sold
-- Payment Method
-- State
-- Order Date
-
-## Purpose of Dataset
-
-The dataset was used to analyze:
-
-- Sales Performance
-- Revenue Trends
-- Profitability
-- Customer Purchasing Behavior
-- Product Performance
-- Regional Sales Analysis
-
 ---
 
 # 🛠️ Tools & Technologies Used
@@ -96,14 +82,14 @@ The dataset was used to analyze:
 ## 🔹 Revenue Analysis
 - Total Revenue Tracking
 - Monthly Revenue Trends
-- Yearly Sales Analysis
-- Revenue Growth Tracking
+- Revenue Growth Analysis
+- State-wise Revenue Analysis
 
 ## 🔹 Profit Analysis
-- Total Profit Calculation
 - Profit Margin Analysis
 - Top Profitable Products
-- Region-wise Profit Analysis
+- Profit Distribution
+- Business Growth Insights
 
 ## 🔹 Product Performance
 - Best Selling Products
@@ -112,12 +98,12 @@ The dataset was used to analyze:
 - Low Performing Products
 
 ## 🔹 Customer Insights
-- Customer Purchase Behavior
-- Repeat Customer Analysis
+- Customer Purchasing Behavior
 - Customer Contribution Analysis
+- Sales Distribution Analysis
 
 ## 🔹 Payment Analysis
-- Most Preferred Payment Methods
+- Preferred Payment Methods
 - Payment-wise Revenue Contribution
 
 ---
@@ -132,6 +118,7 @@ The project contains professional visualizations including:
 - 📉 Trend Analysis
 - 📋 KPI Reports
 - 📌 Comparative Analysis
+- 🌍 Regional Sales Insights
 
 ---
 
@@ -145,20 +132,6 @@ This project helps answer important business questions such as:
 - Which payment methods are preferred by customers?
 - How can businesses improve profitability?
 
-- #👨‍💻 Author
-<div align="center">
-Mahesh Lohar
-Aspiring Data Analyst | Business Intelligence Enthusiast
-
-Passionate about transforming raw data into actionable business insights using analytics and visualization techniques.
-
-🔹 Technical Skills
-<p align="center"> <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" /> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Data%20Analytics-0A66C2?style=for-the-badge" /> </p> </div>
-⭐ Support
-
-If you found this project useful, consider giving it a ⭐ on GitHub.
-
-
 ---
 
 # 📁 Project Structure
@@ -170,7 +143,37 @@ If you found this project useful, consider giving it a ⭐ on GitHub.
  ┣ 📂 Images
  ┣ 📜 README.md
  ┗ 📜 Retail_Analysis.xlsx
+```
+
 ---
 
+# 👨‍💻 Author
 
+<div align="center">
 
+## Mahesh Lohar
+### Aspiring Data Analyst | Business Intelligence Enthusiast
+
+Passionate about transforming raw data into actionable business insights using analytics and visualization techniques.
+
+</div>
+
+---
+
+# 🔹 Technical Skills
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Data%20Analytics-0A66C2?style=for-the-badge" />
+
+</div>
+
+---
+
+# ⭐ Support
+
+If you found this project useful, consider giving it a ⭐ on GitHub.
