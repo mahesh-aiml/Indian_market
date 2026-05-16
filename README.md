@@ -90,6 +90,9 @@ The dataset was used to analyze:
 | Kaggle Dataset | Data Source |
 
 ---
+# Dashboard Preview 
+<img width="1870" height="729" alt="Screenshot 2026-05-15 230834" src="https://github.com/user-attachments/assets/8d5137a0-86eb-45b5-ab23-111edac40394" />
+
 
 # 📊 Key Business Analysis
 
