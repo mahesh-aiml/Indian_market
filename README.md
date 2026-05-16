@@ -145,6 +145,20 @@ This project helps answer important business questions such as:
 - Which payment methods are preferred by customers?
 - How can businesses improve profitability?
 
+- #👨‍💻 Author
+<div align="center">
+Mahesh Lohar
+Aspiring Data Analyst | Business Intelligence Enthusiast
+
+Passionate about transforming raw data into actionable business insights using analytics and visualization techniques.
+
+🔹 Technical Skills
+<p align="center"> <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" /> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Data%20Analytics-0A66C2?style=for-the-badge" /> </p> </div>
+⭐ Support
+
+If you found this project useful, consider giving it a ⭐ on GitHub.
+
+
 ---
 
 # 📁 Project Structure
@@ -160,15 +174,3 @@ This project helps answer important business questions such as:
 
 
 
-#👨‍💻 Author
-<div align="center">
-Mahesh Lohar
-Aspiring Data Analyst | Business Intelligence Enthusiast
-
-Passionate about transforming raw data into actionable business insights using analytics and visualization techniques.
-
-🔹 Technical Skills
-<p align="center"> <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" /> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Data%20Analytics-0A66C2?style=for-the-badge" /> </p> </div>
-⭐ Support
-
-If you found this project useful, consider giving it a ⭐ on GitHub.
