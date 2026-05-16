@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/badge/Project-Data%20Analysis-blue?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge" />
 
-<h3>Professional Retail Sales Data Analysis Project</h3>
+<h3>Retail Sales Data Analysis Project</h3>
 
 </div>
 
