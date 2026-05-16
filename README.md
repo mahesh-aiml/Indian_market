@@ -15,7 +15,9 @@
 
 # 📊 Dashboard Preview
 
-<img width="570" height="396" alt="Screenshot 2026-04-16 020715" src="https://github.com/user-attachments/assets/9cfe2592-c4a6-45c8-8180-7700e7be87b6" />
+<p align="center">
+<img width="1870" height="729" alt="Screenshot 2026-05-15 230834" src="https://github.com/user-attachments/assets/a3fe6404-8548-4716-b7be-88e68bf2cc54" />
+</p>
 
 ---
 
